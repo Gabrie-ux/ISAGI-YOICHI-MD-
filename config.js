@@ -9,7 +9,7 @@ import moment from 'moment-timezone'
 
 //---------[ Añada los numeros a ser Propietario/a ]---------
 
-global.owner = [['5212441357601', 'ＰＲＯＰＩＥＴＡＲＩＯ', true]]
+global.owner = [['51941247696', 'ＰＲＯＰＩＥＴＡＲＩＯ', true]]
 global.mods = []
 global.prems = []
 
@@ -70,15 +70,15 @@ global.moment = moment
 
 //------------------------[ Stickers ]-----------------------------
 
-global.packname = 'AlyaBot'
-global.author = 'Emma (Violets Version)'
+global.packname = 'IsagiBot'
+global.author = 'Gabriel (perro lindo)'
 
 //------------[ Versión | Nombre  ]------------
 
 // Cambia por el nombre de tu bot
 
-global.wm = 'AlyaBot' 
-global.botname = 'AlyaBot'
+global.wm = 'ISAGI YOICHI Bot' 
+global.botname = 'ISAGI YOICHI Bot'
 global.vs = '1.0.0'
 
 //----------------------------[ NIVELES | RPG ]---------------------------------
